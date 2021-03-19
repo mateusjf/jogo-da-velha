@@ -2,8 +2,6 @@
 
 Implementação do jogo da velha 
 
-<h2>Aplicação</h2>
-
 <h3>Recursos</h3>
   <ul>
     <li>Recursos básicos que um jogo da velha tem</li>
